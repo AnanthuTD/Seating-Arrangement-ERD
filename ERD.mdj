@@ -1402,7 +1402,7 @@
 									"font": "Arial;13;1",
 									"left": 352,
 									"top": 477,
-									"width": 151.34814453125,
+									"width": 186.05712890625,
 									"height": 13,
 									"text": "room"
 								},
@@ -1428,7 +1428,7 @@
 											"font": "Arial;13;0",
 											"left": 357,
 											"top": 500,
-											"width": 141.34814453125,
+											"width": 176.05712890625,
 											"height": 13
 										},
 										{
@@ -1443,7 +1443,7 @@
 											"font": "Arial;13;0",
 											"left": 357,
 											"top": 515,
-											"width": 141.34814453125,
+											"width": 176.05712890625,
 											"height": 13
 										},
 										{
@@ -1458,7 +1458,7 @@
 											"font": "Arial;13;0",
 											"left": 357,
 											"top": 530,
-											"width": 141.34814453125,
+											"width": 176.05712890625,
 											"height": 13
 										},
 										{
@@ -1473,7 +1473,7 @@
 											"font": "Arial;13;0",
 											"left": 357,
 											"top": 545,
-											"width": 141.34814453125,
+											"width": 176.05712890625,
 											"height": 13
 										},
 										{
@@ -1488,21 +1488,21 @@
 											"font": "Arial;13;0",
 											"left": 357,
 											"top": 560,
-											"width": 141.34814453125,
+											"width": 176.05712890625,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 352,
 									"top": 495,
-									"width": 151.34814453125,
+									"width": 186.05712890625,
 									"height": 83
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 352,
 							"top": 472,
-							"width": 151.34814453125,
+							"width": 186.05712890625,
 							"height": 106,
 							"autoResize": true,
 							"nameLabel": {
@@ -2299,7 +2299,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGJNdTc1eV3heM="
 							},
-							"name": "status",
+							"name": "is_available",
 							"type": "BOOLEAN",
 							"length": 0
 						},
